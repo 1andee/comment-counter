@@ -1,0 +1,20 @@
+{
+  "name": "comment-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commentCounter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Ian Duke",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.3.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
